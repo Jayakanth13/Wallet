@@ -1,0 +1,6 @@
+projectKey=wallet
+serverUrl=http://localhost:9000
+serverVersion=6.7.2.37468
+dashboardUrl=http://localhost:9000/dashboard/index/wallet
+ceTaskId=AWJQ4t9R6qBQqpSd82-6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWJQ4t9R6qBQqpSd82-6
